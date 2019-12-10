@@ -1,0 +1,25 @@
+# pack-refs with: peeled fully-peeled sorted 
+82c5fd25f1bd0c24f2bb585009b234cd2038153b refs/remotes/origin/master
+7b33dd6d89740603b2aa23e6e01e3685d35ef066 refs/remotes/origin/tomhenderson-castxml
+4063226a29bec5cc3f6469c9b34a0db86b584234 refs/tags/0.1.1
+be0171aaf0b7e1b0970d7cdb68eb76057ad9f748 refs/tags/0.1.2
+1c7227041de9dad7d7cc11f8d6bd928212cd9f28 refs/tags/0.10.0
+96c3efa20226ee446b8b159f0e25049d71f835a5 refs/tags/0.11.0
+5cfc2f4e5f2e3c17c62a828e53db15e375cc4f71 refs/tags/0.12.0
+8aa9c05b8364bfe93c8a78aca92862c41da3d606 refs/tags/0.13.0
+5b2e257edc1fad1f399118791335eb2baee80367 refs/tags/0.14.0
+e757603bf0f7e59dba39052af66aaa1f7bc1f98a refs/tags/0.14.1
+a95fe6e49b1f7bb9159c84c3c7ca4cf686836896 refs/tags/0.15.0
+efcf8e22e2d08187f4d55a7adb2643ec36799d34 refs/tags/0.16.0
+3ca6feb2d20e6f3d8051a872ccba8a747e31bc51 refs/tags/0.17.0
+0466ae3508076ccfb803a16c0eeffc2ed3fc32c3 refs/tags/0.18.0
+ef30ba23dd23afe41aef5bc9aced71c112ccc22e refs/tags/0.19.0
+bacec35be9071b09df863a2d1757f81520c4b5bc refs/tags/0.2.0
+82c5fd25f1bd0c24f2bb585009b234cd2038153b refs/tags/0.20.0
+56958cd4484584daf0a49ec5f2dadd4c65afe0fe refs/tags/0.3.0
+7e856b38935029c7c6234af1c0193350f8d44dc5 refs/tags/0.4.0
+b5652aedb7f5b62b91bccc4ff87fdbcb2539e05d refs/tags/0.5.0
+c34d03071596a087c6552ef3142bd2babcd743fc refs/tags/0.6.0
+7fdd88415dafbf03a6c4ac527bd743bc4b63521e refs/tags/0.7.0
+17f43d369dad7e32a9cf5ed466ce18ada70ac19a refs/tags/0.8.0
+291fbea1fd5d893a5a1023f954c15305ab537f23 refs/tags/0.9.0
